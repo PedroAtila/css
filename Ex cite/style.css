@@ -1,0 +1,42 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Decol:wght@400;500;700&family=Lora:ital,wght@0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+*{
+    HEIGHT: 100%
+    font-family: KaiseiDecol;
+}
+
+body{
+    font-family: 'Kaisei Decol', serif;
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+    /* lighther= magrinha-normal-bold pouco emcopada- bolder gordinha*/
+    background-image: linear-gradient(to bottom, #A68F97, #79717A);
+}
+p{
+    text-align: justify;
+}
+
+main{
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #1314167e;
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1{
+    color: #004F4D;
+    font-size: 3em;
+    text-align: center;
+    font-weight: bolder;
+    text-shadow: 1px 1px 2px #1314167e;
+}
+h2{
+    font-weight: 900;
+    font-size: 2em;
+    color: #1F2024;
+
+}
